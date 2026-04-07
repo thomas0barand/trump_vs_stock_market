@@ -30,13 +30,6 @@ pip install -r requirements.txt
 jupyter lab scripts/explore_and_analyze.ipynb
 ```
 
-4. (Optional) Build the PDF report:
-
-```bash
-cd report
-pdflatex main.tex
-```
-
 ## Main Files
 
 - `scripts/explore_and_analyze.ipynb`: exploration and econometric analysis
